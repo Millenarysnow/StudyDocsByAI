@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  sample_xml/my_widget.meta
+  方案 A: 用独立的 XML 文件描述要绑定的类。
+  程序员同时维护 my_widget.h 和 my_widget.meta。
+-->
+<classDef name="MyWidget" header="sample_xml/my_widget.h">
+    <!-- 方法 -->
+    <method lua_name="setText"   cpp_name="setText" />
+    <method lua_name="getText"   cpp_name="getText"   const="true" />
+    <method lua_name="setSize"   cpp_name="setSize" />
+    <method lua_name="getWidth"  cpp_name="getWidth"  const="true" />
+    <method lua_name="getHeight" cpp_name="getHeight" const="true" />
+
+    <!-- 成员变量 -->
+    <member lua_name="width"  cpp_name="m_width"  type="int" />
+    <member lua_name="height" cpp_name="m_height" type="int" />
+</classDef>
