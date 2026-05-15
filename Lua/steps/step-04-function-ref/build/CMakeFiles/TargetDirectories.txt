@@ -1,0 +1,6 @@
+E:/Others/Lua/steps/step-04-function-ref/build/CMakeFiles/function_ref.dir
+E:/Others/Lua/steps/step-04-function-ref/build/CMakeFiles/edit_cache.dir
+E:/Others/Lua/steps/step-04-function-ref/build/CMakeFiles/rebuild_cache.dir
+E:/Others/Lua/steps/step-04-function-ref/build/lua-build/CMakeFiles/lua_static.dir
+E:/Others/Lua/steps/step-04-function-ref/build/lua-build/CMakeFiles/edit_cache.dir
+E:/Others/Lua/steps/step-04-function-ref/build/lua-build/CMakeFiles/rebuild_cache.dir
